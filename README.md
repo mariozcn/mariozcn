@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 2nd year Automation & Applied Informatics student at UTCN Cluj-Napoca, focused on **Java backend development**.
 
 🔨 Currently building production Spring Boot applications:
