@@ -14,7 +14,7 @@ Second-year Automation and Applied Informatics student at the Technical Universi
 
 #### Stack
 
-`Java` `Spring Boot` `Spring Security` `MySQL` `Flyway` `Redis` `Mockito` `GitHub Actions` `Docker` `OpenAPI / Swagger`
+`Java` `Spring Boot` `Spring Security` `MySQL` `Flyway` `Redis` `Mockito` `GitHub Actions` `Docker` `OpenAPI / Swagger` `Kafka`
 
 ---
 
